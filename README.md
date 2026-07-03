@@ -27,4 +27,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0075-sort-colors) |
+| [0242-valid-anagram](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0242-valid-anagram) |
+## Hash Table
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0242-valid-anagram) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
