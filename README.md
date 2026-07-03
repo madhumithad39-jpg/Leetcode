@@ -32,8 +32,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0242-valid-anagram) |
+| [0771-jewels-and-stones](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0771-jewels-and-stones) |
 ## String
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0242-valid-anagram) |
+| [0771-jewels-and-stones](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0771-jewels-and-stones) |
 <!---LeetCode Topics End-->
