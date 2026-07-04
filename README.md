@@ -23,10 +23,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0134-gas-station) |
+| [0678-valid-parenthesis-string](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0678-valid-parenthesis-string) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0055-jump-game) |
+| [0678-valid-parenthesis-string](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0678-valid-parenthesis-string) |
 ## Sorting
 |  |
 | ------- |
@@ -42,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0242-valid-anagram) |
+| [0678-valid-parenthesis-string](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0771-jewels-and-stones](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0771-jewels-and-stones) |
 ## Linked List
 |  |
@@ -60,4 +63,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0048-rotate-image) |
+## Stack
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
