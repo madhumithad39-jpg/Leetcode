@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0055-jump-game](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0062-unique-paths) |
+| [0072-edit-distance](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0091-decode-ways) |
 | [0139-word-break](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0198-house-robber) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0072-edit-distance](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0091-decode-ways) |
 | [0139-word-break](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0139-word-break) |
 | [0242-valid-anagram](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0242-valid-anagram) |
