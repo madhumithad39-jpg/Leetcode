@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0048-rotate-image) |
 | [0055-jump-game](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0075-sort-colors) |
+| [0084-largest-rectangle-in-histogram](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0134-gas-station](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0134-gas-station) |
 | [0139-word-break](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0139-word-break) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0084-largest-rectangle-in-histogram](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0678-valid-parenthesis-string](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0739-daily-temperatures) |
 ## Divide and Conquer
@@ -136,5 +138,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0739-daily-temperatures](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
