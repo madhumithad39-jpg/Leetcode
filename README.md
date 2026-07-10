@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0001-two-sum) |
 | [0139-word-break](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0139-word-break) |
+| [0146-lru-cache](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0146-lru-cache) |
 | [0242-valid-anagram](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0771-jewels-and-stones](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0771-jewels-and-stones) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0002-add-two-numbers) |
+| [0146-lru-cache](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0146-lru-cache) |
 ## Math
 |  |
 | ------- |
@@ -144,4 +146,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0739-daily-temperatures](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0853-car-fleet) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
