@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0001-two-sum) |
+| [0138-copy-list-with-random-pointer](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0139-word-break) |
 | [0146-lru-cache](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0146-lru-cache) |
 | [0242-valid-anagram](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0242-valid-anagram) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0002-add-two-numbers) |
+| [0138-copy-list-with-random-pointer](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0146-lru-cache](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0146-lru-cache) |
 ## Math
 |  |
