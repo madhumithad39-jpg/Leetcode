@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0322-coin-change) |
 | [0435-non-overlapping-intervals](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0678-valid-parenthesis-string) |
+| [1143-longest-common-subsequence](https://github.com/madhumithad39-jpg/Leetcode/tree/master/1143-longest-common-subsequence) |
 ## Sorting
 |  |
 | ------- |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0771-jewels-and-stones](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0771-jewels-and-stones) |
 | [0804-unique-morse-code-words](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0804-unique-morse-code-words) |
+| [1143-longest-common-subsequence](https://github.com/madhumithad39-jpg/Leetcode/tree/master/1143-longest-common-subsequence) |
 ## Linked List
 |  |
 | ------- |
