@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0025-reverse-nodes-in-k-group](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0138-copy-list-with-random-pointer](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0146-lru-cache](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0146-lru-cache) |
 ## Math
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0002-add-two-numbers) |
+| [0025-reverse-nodes-in-k-group](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0326-power-of-three](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0326-power-of-three) |
 | [0390-elimination-game](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0390-elimination-game) |
 ## Matrix
