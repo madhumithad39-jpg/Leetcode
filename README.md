@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0347-top-k-frequent-elements](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0435-non-overlapping-intervals](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0739-daily-temperatures](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0853-car-fleet) |
 | [0875-koko-eating-bananas](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0875-koko-eating-bananas) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0134-gas-station) |
+| [0435-non-overlapping-intervals](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0678-valid-parenthesis-string) |
 ## Dynamic Programming
 |  |
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
+| [0435-non-overlapping-intervals](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0678-valid-parenthesis-string) |
 ## Sorting
 |  |
@@ -58,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0435-non-overlapping-intervals](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0853-car-fleet](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0853-car-fleet) |
 ## Hash Table
 |  |
