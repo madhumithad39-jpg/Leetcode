@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0804-unique-morse-code-words](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0804-unique-morse-code-words) |
 | [0853-car-fleet](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0853-car-fleet) |
 | [0875-koko-eating-bananas](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0875-koko-eating-bananas) |
+| [1034-coloring-a-border](https://github.com/madhumithad39-jpg/Leetcode/tree/master/1034-coloring-a-border) |
 | [2187-minimum-time-to-complete-trips](https://github.com/madhumithad39-jpg/Leetcode/tree/master/2187-minimum-time-to-complete-trips) |
 ## Two Pointers
 |  |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [1034-coloring-a-border](https://github.com/madhumithad39-jpg/Leetcode/tree/master/1034-coloring-a-border) |
 ## Stack
 |  |
 | ------- |
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1034-coloring-a-border](https://github.com/madhumithad39-jpg/Leetcode/tree/master/1034-coloring-a-border) |
 | [1530-number-of-good-leaf-nodes-pairs](https://github.com/madhumithad39-jpg/Leetcode/tree/master/1530-number-of-good-leaf-nodes-pairs) |
 | [1971-find-if-path-exists-in-graph](https://github.com/madhumithad39-jpg/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
@@ -287,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0322-coin-change) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1034-coloring-a-border](https://github.com/madhumithad39-jpg/Leetcode/tree/master/1034-coloring-a-border) |
 | [1971-find-if-path-exists-in-graph](https://github.com/madhumithad39-jpg/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Search Tree
 |  |
