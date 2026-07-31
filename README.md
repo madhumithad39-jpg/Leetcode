@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0419-battleships-in-a-board](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0419-battleships-in-a-board) |
 | [0435-non-overlapping-intervals](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0621-task-scheduler) |
+| [0695-max-area-of-island](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0695-max-area-of-island) |
 | [0739-daily-temperatures](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0739-daily-temperatures) |
 | [0804-unique-morse-code-words](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0804-unique-morse-code-words) |
 | [0853-car-fleet](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0853-car-fleet) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0200-number-of-islands) |
 | [0419-battleships-in-a-board](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0419-battleships-in-a-board) |
+| [0695-max-area-of-island](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0695-max-area-of-island) |
 | [0994-rotting-oranges](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0994-rotting-oranges) |
 | [1034-coloring-a-border](https://github.com/madhumithad39-jpg/Leetcode/tree/master/1034-coloring-a-border) |
 ## Stack
@@ -269,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0419-battleships-in-a-board](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0419-battleships-in-a-board) |
 | [0543-diameter-of-binary-tree](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0695-max-area-of-island](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0695-max-area-of-island) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1034-coloring-a-border](https://github.com/madhumithad39-jpg/Leetcode/tree/master/1034-coloring-a-border) |
 | [1530-number-of-good-leaf-nodes-pairs](https://github.com/madhumithad39-jpg/Leetcode/tree/master/1530-number-of-good-leaf-nodes-pairs) |
@@ -303,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0322-coin-change) |
+| [0695-max-area-of-island](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0695-max-area-of-island) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0994-rotting-oranges](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0994-rotting-oranges) |
 | [1034-coloring-a-border](https://github.com/madhumithad39-jpg/Leetcode/tree/master/1034-coloring-a-border) |
@@ -318,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0695-max-area-of-island) |
 | [1971-find-if-path-exists-in-graph](https://github.com/madhumithad39-jpg/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
