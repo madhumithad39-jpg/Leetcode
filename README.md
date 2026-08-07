@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0002-add-two-numbers) |
+| [0009-palindrome-number](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0070-climbing-stairs) |
