@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0013-roman-to-integer) |
 | [0076-minimum-window-substring](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0133-clone-graph](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0133-clone-graph) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0013-roman-to-integer) |
 | [0032-longest-valid-parentheses](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0072-edit-distance](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0076-minimum-window-substring) |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0070-climbing-stairs) |
