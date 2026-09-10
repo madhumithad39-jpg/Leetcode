@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0048-rotate-image](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0048-rotate-image) |
 | [0055-jump-game](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0055-jump-game) |
 | [0074-search-a-2d-matrix](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0074-search-a-2d-matrix) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0283-move-zeroes) |
 ## Greedy
