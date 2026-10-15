@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0283-move-zeroes) |
 ## Greedy
 |  |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0091-decode-ways](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0097-interleaving-string) |
+| [0125-valid-palindrome](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0139-word-break) |
 | [0242-valid-anagram](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0242-valid-anagram) |
 | [0678-valid-parenthesis-string](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0678-valid-parenthesis-string) |
