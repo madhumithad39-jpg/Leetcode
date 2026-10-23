@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0283-move-zeroes](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0283-move-zeroes) |
 ## Greedy
 |  |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0146-lru-cache) |
+| [0160-intersection-of-two-linked-lists](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0242-valid-anagram](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0621-task-scheduler) |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0146-lru-cache) |
+| [0160-intersection-of-two-linked-lists](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 ## Math
 |  |
 | ------- |
