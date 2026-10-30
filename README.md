@@ -491,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0389-find-the-difference) |
+| [0401-binary-watch](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0401-binary-watch) |
 ## Simulation
 |  |
 | ------- |
@@ -511,4 +512,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
+## Backtracking
+|  |
+| ------- |
+| [0401-binary-watch](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0401-binary-watch) |
 <!---LeetCode Topics End-->
