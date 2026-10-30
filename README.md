@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0168-excel-sheet-column-title](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0326-power-of-three](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0342-power-of-four) |
 | [0390-elimination-game](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0390-elimination-game) |
 ## Recursion
 |  |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0326-power-of-three](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0342-power-of-four) |
 | [0390-elimination-game](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0390-elimination-game) |
 ## Matrix
 |  |
@@ -457,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0136-single-number) |
 | [0338-counting-bits](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0338-counting-bits) |
+| [0342-power-of-four](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0342-power-of-four) |
 ## Simulation
 |  |
 | ------- |
