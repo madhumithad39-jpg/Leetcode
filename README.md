@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0389-find-the-difference](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0389-find-the-difference) |
 | [0435-non-overlapping-intervals](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0621-task-scheduler) |
 | [0853-car-fleet](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0853-car-fleet) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0389-find-the-difference) |
 | [0621-task-scheduler](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0621-task-scheduler) |
 | [0771-jewels-and-stones](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0771-jewels-and-stones) |
 | [0804-unique-morse-code-words](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0804-unique-morse-code-words) |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0389-find-the-difference) |
 | [0678-valid-parenthesis-string](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0771-jewels-and-stones](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0771-jewels-and-stones) |
 | [0804-unique-morse-code-words](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0804-unique-morse-code-words) |
@@ -484,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0136-single-number) |
 | [0338-counting-bits](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0342-power-of-four) |
+| [0389-find-the-difference](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0389-find-the-difference) |
 ## Simulation
 |  |
 | ------- |
