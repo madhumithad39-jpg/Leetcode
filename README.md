@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0326-power-of-three](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0342-power-of-four) |
+| [0367-valid-perfect-square](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0390-elimination-game](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0390-elimination-game) |
 ## Recursion
 |  |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0367-valid-perfect-square](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0778-swim-in-rising-water](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0778-swim-in-rising-water) |
 | [0875-koko-eating-bananas](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [2187-minimum-time-to-complete-trips](https://github.com/madhumithad39-jpg/Leetcode/tree/master/2187-minimum-time-to-complete-trips) |
