@@ -350,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0404-sum-of-left-leaves](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0450-delete-node-in-a-bst](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [1530-number-of-good-leaf-nodes-pairs](https://github.com/madhumithad39-jpg/Leetcode/tree/master/1530-number-of-good-leaf-nodes-pairs) |
@@ -374,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0404-sum-of-left-leaves](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0419-battleships-in-a-board](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0419-battleships-in-a-board) |
 | [0543-diameter-of-binary-tree](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0684-redundant-connection) |
@@ -405,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0404-sum-of-left-leaves](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0450-delete-node-in-a-bst](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [1530-number-of-good-leaf-nodes-pairs](https://github.com/madhumithad39-jpg/Leetcode/tree/master/1530-number-of-good-leaf-nodes-pairs) |
@@ -424,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0322-coin-change) |
+| [0404-sum-of-left-leaves](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0684-redundant-connection](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0695-max-area-of-island) |
 | [0778-swim-in-rising-water](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0778-swim-in-rising-water) |
