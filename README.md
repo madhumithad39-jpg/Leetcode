@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0392-is-subsequence) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0678-valid-parenthesis-string](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0771-jewels-and-stones](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0771-jewels-and-stones) |
 | [0804-unique-morse-code-words](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0804-unique-morse-code-words) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0390-elimination-game](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0390-elimination-game) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## Recursion
 |  |
 | ------- |
@@ -496,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0389-find-the-difference) |
 | [0401-binary-watch](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0401-binary-watch) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/madhumithad39-jpg/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## Simulation
 |  |
 | ------- |
